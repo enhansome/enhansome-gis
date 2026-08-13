@@ -1,0 +1,5230 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SharpMap",
+          "description": "An easy-to-use mapping library for use in web and desktop applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-06T15:20:53Z",
+            "owner": "SharpMap",
+            "repo": "SharpMap",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenOrienteering Mapper",
+          "description": "A software for creating maps for the orienteering sport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T10:02:15Z",
+            "owner": "OpenOrienteering",
+            "repo": "mapper",
+            "stars": 491
+          }
+        }
+      ],
+      "title": "Geographic Information System Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Earth Enterprise",
+          "description": "the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-01-04T20:30:53Z",
+            "owner": "google",
+            "repo": "earthenterprise",
+            "stars": 2749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoTrellis",
+          "description": "A geographic data processing engine for high performance applications that uses Spark to work with raster data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T09:43:55Z",
+            "owner": "locationtech",
+            "repo": "geotrellis",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nanocubes",
+          "description": "An in-memory data structure for spatiotemporal data cubes. Github Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-04T20:52:43Z",
+            "owner": "laurolins",
+            "repo": "nanocube",
+            "stars": 731
+          }
+        }
+      ],
+      "title": "Web Map Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MapLibre GL",
+          "description": "Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:27:12Z",
+            "owner": "maplibre",
+            "repo": "maplibre-gl-js",
+            "stars": 11326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maptalks.js",
+          "description": "A light and plugable JavaScript library for integrated 2D/3D maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T09:13:40Z",
+            "owner": "maptalks",
+            "repo": "maptalks.js",
+            "stars": 4527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L7",
+          "description": "Large-scale WebGL-powered Geospatial Data Visualization By Ant Financial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T10:03:41Z",
+            "owner": "antvis",
+            "repo": "L7",
+            "stars": 4048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapv",
+          "description": "A library of geography visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-10T06:57:07Z",
+            "owner": "huiyan-fe",
+            "repo": "mapv",
+            "stars": 2607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tangram",
+          "description": "A JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T03:24:49Z",
+            "owner": "tangrams",
+            "repo": "tangram",
+            "stars": 2332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "three-geo",
+          "description": "Is a three.js based geographic visualization library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-25T08:20:32Z",
+            "owner": "w3reality",
+            "repo": "three-geo",
+            "stars": 1399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jVectorMap",
+          "description": "A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. Github Link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-13T11:26:23Z",
+            "owner": "bjornd",
+            "repo": "jvectormap",
+            "stars": 1394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webglearth2",
+          "description": "Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-18T06:44:00Z",
+            "owner": "webglearth",
+            "repo": "webglearth2",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-carto-map",
+          "description": "A library for creating layer-based maps using D3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-15T03:22:46Z",
+            "owner": "emeeks",
+            "repo": "d3-carto-map",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "Front-end Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tile38",
+          "description": "Tile38 is a geospatial database, spatial index, and realtime geofence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T12:16:28Z",
+            "owner": "tidwall",
+            "repo": "tile38",
+            "stars": 9714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBtiles",
+          "description": "A specification for storing tiled map data in SQLite databases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-29T14:59:15Z",
+            "owner": "mapbox",
+            "repo": "mbtiles-spec",
+            "stars": 669
+          }
+        }
+      ],
+      "title": "Spatial Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Android",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TileView",
+              "description": "Asynchronously display tile-based images, with additional functionality for 2D map.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2020-07-07T08:58:56Z",
+                "owner": "moagrius",
+                "repo": "TileView",
+                "stars": 1454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WhirlyGlobe-Maply",
+              "description": "3D globe and flat-map SDK for Android. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-31T00:23:58Z",
+                "owner": "mousebird-consulting-inc",
+                "repo": "WhirlyGlobe",
+                "stars": 845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenOrienteering Mapper",
+              "description": "A software for creating maps for the orienteering sport.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-21T10:02:15Z",
+                "owner": "OpenOrienteering",
+                "repo": "mapper",
+                "stars": 491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NextGIS Android SDK",
+              "description": "An open source library for Android geo applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-03T07:45:30Z",
+                "owner": "nextgis",
+                "repo": "android_maplib",
+                "stars": 29
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cross-Platform",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Red Grid MGRS",
+              "description": "Open-source DAGR-class military GPS navigator with live MGRS coordinates, magnetic declination, waypoints, bearing & distance, and tactical tools. Built with React Native/Expo for iOS and Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T23:53:28Z",
+                "owner": "RedGridTactical",
+                "repo": "RedGridMGRS",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "iOS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WhirlyGlobe-Maply",
+              "description": "3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-31T00:23:58Z",
+                "owner": "mousebird-consulting-inc",
+                "repo": "WhirlyGlobe",
+                "stars": 845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NextGIS iOS SDK",
+              "description": "An open source library for iOS geo applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2018-10-16T17:59:33Z",
+                "owner": "nextgis",
+                "repo": "ios_maplib",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Mobile Develop Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deep learning object detection",
+          "description": "A paper list of object detection using deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-12T09:30:31Z",
+            "owner": "hoya012",
+            "repo": "deep_learning_object_detection",
+            "stars": 11386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Semantic Segmentation",
+          "description": "A code list of semantic segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-08T13:40:11Z",
+            "owner": "mrgloom",
+            "repo": "awesome-semantic-segmentation",
+            "stars": 10850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Remote Sensing Change Detection",
+          "description": "List of datasets, codes, papers, and contests related to remote sensing change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T14:44:49Z",
+            "owner": "wenhwu",
+            "repo": "awesome-remote-sensing-change-detection",
+            "stars": 2299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rastervision",
+          "description": "An open source framework for deep learning on satellite and aerial imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T14:59:54Z",
+            "owner": "azavea",
+            "repo": "raster-vision",
+            "stars": 2237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robosat",
+          "description": "Semantic segmentation on aerial and satellite imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T15:11:59Z",
+            "owner": "mapbox",
+            "repo": "robosat",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eo-learn",
+          "description": "Earth observation processing framework for machine learning in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T07:25:25Z",
+            "owner": "sentinel-hub",
+            "repo": "eo-learn",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "label-maker",
+          "description": "Data Preparation for Satellite Machine Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:56:39Z",
+            "owner": "developmentseed",
+            "repo": "label-maker",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solaris",
+          "description": "CosmiQ Works Geospatial Machine Learning Analysis Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T02:32:13Z",
+            "owner": "CosmiQ",
+            "repo": "solaris",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLT",
+          "description": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-12-09T03:46:12Z",
+            "owner": "avanetten",
+            "repo": "yolt",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aviary",
+          "description": "Pythonic Framework for AI Inference on Geospatial Data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:14:11Z",
+            "owner": "geospaitial-lab",
+            "repo": "aviary",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Deep Learning Framework for Geospatial"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-satellite-imagery-datasets",
+          "description": "List of satellite imagery datasets with annotations for computer vision and deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-sensing-change-detection",
+          "description": "List of datasets, codes, researchers and contests related to remote sensing change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T14:44:49Z",
+            "owner": "wenhwu",
+            "repo": "awesome-remote-sensing-change-detection",
+            "stars": 2299
+          }
+        }
+      ],
+      "title": "Deep Learning Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mapbox-gl-native",
+          "description": "A library for embedding interactive, customizable vector maps into native applications on multiple platforms",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-07-27T10:31:03Z",
+            "owner": "mapbox",
+            "repo": "mapbox-gl-native",
+            "stars": 4454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maplibre-gl-native",
+          "description": "A fork of mapbox-gl-native after licensing change",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:07:36Z",
+            "owner": "maplibre",
+            "repo": "maplibre-native",
+            "stars": 2134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tangram-es",
+          "description": "A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-08T08:50:14Z",
+            "owner": "tangrams",
+            "repo": "tangram-es",
+            "stars": 874
+          }
+        }
+      ],
+      "title": "Map Render Engine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Geospatial Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libvips",
+          "description": "A fast image processing library with low memory needs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:14:00Z",
+            "owner": "libvips",
+            "repo": "libvips",
+            "stars": 11568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H3",
+          "description": "Hexagonal hierarchical geospatial indexing system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T22:12:49Z",
+            "owner": "uber",
+            "repo": "h3",
+            "stars": 6461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libpostal",
+          "description": "A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-13T11:06:02Z",
+            "owner": "openvenues",
+            "repo": "libpostal",
+            "stars": 4868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLT",
+          "description": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-10-25T16:49:22Z",
+            "owner": "CosmiQ",
+            "repo": "yolt",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datamaps",
+          "description": "This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2014-08-19T19:29:02Z",
+            "owner": "e-n-f",
+            "repo": "datamaps",
+            "stars": 350
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Halide",
+          "description": "Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:57:01Z",
+            "owner": "halide",
+            "repo": "Halide",
+            "stars": 6581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDroneMap",
+          "description": "OpenDroneMap is a tool to postprocess drone, balloon, kite, and street view data to geographic data including orthophotos, point clouds, & textured mesh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:06:29Z",
+            "owner": "OpenDroneMap",
+            "repo": "ODM",
+            "stars": 6369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "valhalla",
+          "description": "Open Source Routing Engine for OpenStreetMap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T16:24:23Z",
+            "owner": "valhalla",
+            "repo": "valhalla",
+            "stars": 6064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapbox GL Native",
+          "description": "Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-07-27T10:31:03Z",
+            "owner": "mapbox",
+            "repo": "mapbox-gl-native",
+            "stars": 4454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tippecanoe",
+          "description": "Build vector tilesets from large collections of GeoJSON features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-29T15:20:27Z",
+            "owner": "mapbox",
+            "repo": "tippecanoe",
+            "stars": 3107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S2 Geometry",
+          "description": "Computational geometry and spatial indexing on the sphere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T00:05:06Z",
+            "owner": "google",
+            "repo": "s2geometry",
+            "stars": 2707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osgearth",
+          "description": "A free open source C++ geospatial toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T14:50:21Z",
+            "owner": "pelicanmapping",
+            "repo": "osgearth",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapzen Tangram-ES",
+          "description": "C++ library for rendering 2D and 3D maps using OpenGL ES 2 with custom styling and interactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-08T08:50:14Z",
+            "owner": "tangrams",
+            "repo": "tangram-es",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libspatialindex",
+          "description": "C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-07T21:11:52Z",
+            "owner": "libspatialindex",
+            "repo": "libspatialindex",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TIN Terrain",
+          "description": "A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-03-08T09:05:58Z",
+            "owner": "heremaps",
+            "repo": "tin-terrain",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapnik Vector Tile",
+          "description": "Mapnik C++ implemention of Mapbox Vector Tile specification.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-04-13T23:07:34Z",
+            "owner": "mapbox",
+            "repo": "mapnik-vector-tile",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entwine",
+          "description": "Entwine is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-02T20:28:52Z",
+            "owner": "connormanning",
+            "repo": "entwine",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenOrienteering Mapper",
+          "description": "OpenOrienteering Mapper is a software for creating maps for the orienteering sport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T10:02:15Z",
+            "owner": "OpenOrienteering",
+            "repo": "mapper",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gSLICr",
+          "description": "Real-time super-pixel segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-03T16:19:39Z",
+            "owner": "carlren",
+            "repo": "gSLICr",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selene",
+          "description": "A C++14 image representation, processing and I/O library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-04T16:48:27Z",
+            "owner": "kmhofmann",
+            "repo": "selene",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TauDEM",
+          "description": "Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T03:14:06Z",
+            "owner": "dtarb",
+            "repo": "TauDEM",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LASzip",
+          "description": "Quickly turns bulky LAS files into compact LAZ files without information loss.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T13:47:38Z",
+            "owner": "LASzip",
+            "repo": "LASzip",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdalcubes",
+          "description": "gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-29T09:39:22Z",
+            "owner": "appelmar",
+            "repo": "gdalcubes",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-vt-cpp",
+          "description": "Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-08-13T12:36:40Z",
+            "owner": "mapbox",
+            "repo": "geojson-vt-cpp",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laz-perf",
+          "description": "Alternative LAZ implementation for C++ and JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-25T23:34:56Z",
+            "owner": "hobuinc",
+            "repo": "laz-perf",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geo-utils-cpp",
+          "description": "Header-only C++17 library for spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:44:55Z",
+            "owner": "gistrec",
+            "repo": "geo-utils-cpp",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pronto Raster",
+          "description": "C++ library for geographical raster data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-12T10:00:11Z",
+            "owner": "ahhz",
+            "repo": "raster",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supercluster",
+          "description": "A C++14 port of supercluster, a fast 2D point clustering library for use in interactive maps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-01-29T23:57:32Z",
+            "owner": "mapbox",
+            "repo": "supercluster.hpp",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dreich_algorithm",
+          "description": "Algorithm for extracting channel networks from high resolution topographic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-02-25T19:11:09Z",
+            "owner": "csdms-contrib",
+            "repo": "dreich_algorithm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hydroflow",
+          "description": "Compute drainage orders in drainage basins using Strahler and Shreve methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-02-01T12:04:25Z",
+            "owner": "sistemalabgis",
+            "repo": "hydroflow",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vector Tiles Producer",
+          "description": "Command line tool in C++ to creates vector tiles for a given area at chosen zoom levels using a Mapnik XML.",
+          "children": []
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NTS Net Topology Suite",
+          "description": "A .NET GIS solution that is fast and reliable for the .NET platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T11:31:30Z",
+            "owner": "NetTopologySuite",
+            "repo": "NetTopologySuite",
+            "stars": 1710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpMap",
+          "description": "SharpMap is an easy-to-use mapping library for use in web and desktop applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-06T15:20:53Z",
+            "owner": "SharpMap",
+            "repo": "SharpMap",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoJSON.Net",
+          "description": ".Net library for GeoJSON types & corresponding Json.Net (de)serializers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-12T09:05:16Z",
+            "owner": "GeoJSON-Net",
+            "repo": "GeoJSON.Net",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BruTile",
+          "description": "BruTile is a .NET library to access tile services like those of OpenStreetMap, MapBox or GeodanMaps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-18T09:00:28Z",
+            "owner": "BruTile",
+            "repo": "BruTile",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEM Net Elevation API",
+          "description": "Library focused on Digital Elevation Models, OSM and 3D from open data. Playground: https://elevationapi.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-18T19:02:30Z",
+            "owner": "dem-net",
+            "repo": "DEM.Net",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geo",
+          "description": "A geospatial library for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T03:48:39Z",
+            "owner": "sibartlett",
+            "repo": "Geo",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bing Maps REST Toolkit",
+          "description": "This is a portable class library which makes it easy to access the Bing Maps REST services from .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-05-24T07:42:34Z",
+            "owner": "microsoft",
+            "repo": "BingMapsRESTToolkit",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earth-Lens",
+          "description": "Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-02-27T18:50:17Z",
+            "owner": "microsoft",
+            "repo": "Earth-Lens",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bing Maps Spatial Data Services Toolkit",
+          "description": "This toolkit makes it easy to use the Bing Maps Spatial Data Services (SDS) in .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-05-24T07:41:05Z",
+            "owner": "microsoft",
+            "repo": "BingMapsSDSToolkit",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linq2db-Postgis-Extensions",
+          "description": ".NET Standard 2.0 library with OGC extensions methods on geometry ( or ) instances, providing strongly typed access to PostGIS functions on server side while using linq2db LINQ to database provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-09T15:27:50Z",
+            "owner": "apdevelop",
+            "repo": "linq2db-postgis-extensions",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoJSON4EntityFramework",
+          "description": "Create GeoJSON from Entity Framework Spatial Data or WKT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2017-04-12T22:01:34Z",
+            "owner": "alatas",
+            "repo": "GeoJSON4EntityFramework",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArcBruTile",
+          "description": "ArcBruTile displays a collection of maps in ArcGIS Pro 2.0 and ArcMap 10.0 - 10.6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-18T21:17:20Z",
+            "owner": "ArcBruTile",
+            "repo": "ArcBruTile",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BotBuild-Location",
+          "description": "An open-source location picker control for Microsoft Bot Framework powered by Bing Maps REST services.",
+          "children": []
+        }
+      ],
+      "title": "C Sharp"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geo",
+          "description": "A collection of GIS functions for Elixir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-05-15T15:45:56Z",
+            "owner": "felt",
+            "repo": "geo",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometry Library",
+          "description": "A Geometry library for Elixir that calculates spatial relationships between two geometries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-01-25T23:09:08Z",
+            "owner": "pkinney",
+            "repo": "topo",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "distance",
+          "description": "Provides a set of distance functions for use in GIS or graphic applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-01-25T23:13:54Z",
+            "owner": "pkinney",
+            "repo": "distance",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Elixir"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SPECFEM3D_GLOBE",
+          "description": "SPECFEM3D_GLOBE simulates global and regional (continental-scale) seismic wave propagation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-07-23T20:32:03Z",
+            "owner": "SPECFEM",
+            "repo": "specfem3d_globe",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWAT",
+          "description": "Implementation of SWAT model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2023-11-29T07:15:19Z",
+            "owner": "crazyzlj",
+            "repo": "SWAT",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Fortran"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BuntDB",
+          "description": "BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-19T13:29:56Z",
+            "owner": "tidwall",
+            "repo": "buntdb",
+            "stars": 4863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S2",
+          "description": "S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:53:27Z",
+            "owner": "golang",
+            "repo": "geo",
+            "stars": 1847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draw2D",
+          "description": "2D rendering for different output (raster, pdf).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-22T08:10:35Z",
+            "owner": "llgcode",
+            "repo": "draw2d",
+            "stars": 1164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orb",
+          "description": "Package orb defines a set of types for working with 2d geo and planar/projected geometric data in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-30T15:51:22Z",
+            "owner": "paulmach",
+            "repo": "orb",
+            "stars": 1123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-geom",
+          "description": "Go library for handling geometries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-14T13:28:05Z",
+            "owner": "twpayne",
+            "repo": "go-geom",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geoos",
+          "description": "A library provides spatial data and geometric algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-03T13:45:37Z",
+            "owner": "spatial-go",
+            "repo": "geoos",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoxTree",
+          "description": "An R-tree implementation for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T01:40:22Z",
+            "owner": "tidwall",
+            "repo": "rtree",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go.Geo",
+          "description": "Geometry/geography library in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-09-12T12:16:44Z",
+            "owner": "paulmach",
+            "repo": "go.geo",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go GDAL",
+          "description": "Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-31T20:29:39Z",
+            "owner": "lukeroth",
+            "repo": "gdal",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-shp",
+          "description": "Go library for reading and writing ESRI Shapefiles. Pure Golang implementation based on the ESRI Shapefile technical description.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-02T09:27:46Z",
+            "owner": "jonas-p",
+            "repo": "go-shp",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gopostal",
+          "description": "Go (cgo) interface to libpostal for fast international address parsing/normalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-26T05:56:09Z",
+            "owner": "openvenues",
+            "repo": "gopostal",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golang-Ellipsoid",
+          "description": "Golang package to calculate distances and locations on an Ellipsoid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-22T13:12:01Z",
+            "owner": "StefanSchroeder",
+            "repo": "Golang-Ellipsoid",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoSpatial",
+          "description": "GoSpatial is a simple command-line interface program for manipulating geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-04-24T20:40:17Z",
+            "owner": "jblindsay",
+            "repo": "go-spatial",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geom",
+          "description": "Geometry objects and functions for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-04T20:30:14Z",
+            "owner": "ctessum",
+            "repo": "geom",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-proj-4",
+          "description": "Go bindings for the Cartographic Projections Library PROJ.4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-02-20T13:24:35Z",
+            "owner": "pebbe",
+            "repo": "go-proj-4",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lidario",
+          "description": "A small Go library for reading and writing LiDAR (LAS) files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-04T19:58:35Z",
+            "owner": "jblindsay",
+            "repo": "lidario",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GraphHopper Routing Engine",
+          "description": "GraphHopper is a fast and memory efficient Java routing engine, released under Apache License 2.0. By default it uses OpenStreetMap and GTFS data, but it can import other data sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T15:35:51Z",
+            "owner": "graphhopper",
+            "repo": "graphhopper",
+            "stars": 6627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photon",
+          "description": "Photon is an open source geocoder built for OpenStreetMap data. It is based on elasticsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T15:52:19Z",
+            "owner": "komoot",
+            "repo": "photon",
+            "stars": 2986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial4j",
+          "description": "Spatial4j is a general purpose geospatial ASL licensed open-source Java library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-30T03:24:39Z",
+            "owner": "locationtech",
+            "repo": "spatial4j",
+            "stars": 962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jpostal",
+          "description": "Java/JNI bindings to libpostal for fast international street address parsing/normalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-01T18:31:29Z",
+            "owner": "openvenues",
+            "repo": "jpostal",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Openmap",
+          "description": "Open Source JavaBeans-based programmer's toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-21T13:55:53Z",
+            "owner": "OpenMap-java",
+            "repo": "openmap",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgbook",
+          "description": "Implementation of GIS/RS features in Java. Its also the code accompanying the book \"Automating the Analysis of Spatial Grids\" by Valliappa Lakshmanan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2012-05-15T16:58:34Z",
+            "owner": "lakshmanok",
+            "repo": "asgbook",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whitebox-geospatial-analysis-tools",
+          "description": "An open-source GIS and remote sensing package.",
+          "children": []
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CesiumJS",
+          "description": "An open-source JavaScript library for world-class 3D globes and maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:05:37Z",
+            "owner": "CesiumGS",
+            "repo": "cesium",
+            "stars": 15558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deck.gl",
+          "description": "WebGL2 powered geospatial visualization layers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:50:19Z",
+            "owner": "visgl",
+            "repo": "deck.gl",
+            "stars": 14370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "city-roads",
+          "description": "Visualization of all roads within any city.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T06:28:29Z",
+            "owner": "anvaka",
+            "repo": "city-roads",
+            "stars": 9544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-map-gl",
+          "description": "React friendly API wrapper around MapboxGL JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T01:25:28Z",
+            "owner": "visgl",
+            "repo": "react-map-gl",
+            "stars": 8483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmaps.js",
+          "description": "gmaps.js allows you to use the potential of Google Maps in a simple way.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-22T03:40:53Z",
+            "owner": "hpneo",
+            "repo": "gmaps",
+            "stars": 6977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixelmatch",
+          "description": "The smallest, simplest and fastest JavaScript pixel-level image comparison library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T08:13:13Z",
+            "owner": "mapbox",
+            "repo": "pixelmatch",
+            "stars": 6911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLite3",
+          "description": "Asynchronous, non-blocking SQLite3 bindings for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PLpgSQL",
+            "last_commit": "2026-06-27T23:40:00Z",
+            "owner": "TryGhost",
+            "repo": "node-sqlite3",
+            "stars": 6418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-leaflet",
+          "description": "React components for Leaflet maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-31T13:03:00Z",
+            "owner": "PaulLeCam",
+            "repo": "react-leaflet",
+            "stars": 5597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapshaper",
+          "description": "Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:12:15Z",
+            "owner": "mbloch",
+            "repo": "mapshaper",
+            "stars": 4163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcoord",
+          "description": "地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T07:57:54Z",
+            "owner": "hujiulong",
+            "repo": "gcoord",
+            "stars": 3313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supercluster",
+          "description": "A crazy fast geospatial point clustering library for browsers and Node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T09:43:43Z",
+            "owner": "mapbox",
+            "repo": "supercluster",
+            "stars": 2345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proj4js",
+          "description": "JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T11:01:46Z",
+            "owner": "proj4js",
+            "repo": "proj4js",
+            "stars": 2235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue2Leaflet",
+          "description": "Vue 2 components for Leaflet maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-29T14:23:03Z",
+            "owner": "vue-leaflet",
+            "repo": "Vue2Leaflet",
+            "stars": 1955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cesium",
+          "description": "A Vue 2.x & Vue 3.x based component library of CesiumJS for GISer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-30T16:59:10Z",
+            "owner": "zouyaoji",
+            "repo": "vue-cesium",
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSTS",
+          "description": "Port of the Java JTS library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-02T19:25:48Z",
+            "owner": "bjornharrtell",
+            "repo": "jsts",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overpass-turbo",
+          "description": "A web based data mining tool for OpenStreetMap using Overpass API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T14:53:27Z",
+            "owner": "tyrasd",
+            "repo": "overpass-turbo",
+            "stars": 1231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapbox-gl-draw",
+          "description": "Draw tools for mapbox-gl-js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T11:43:21Z",
+            "owner": "mapbox",
+            "repo": "mapbox-gl-draw",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geotiff.js",
+          "description": "geotiff.js is a small library to parse TIFF files for visualization or analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-26T20:17:59Z",
+            "owner": "geotiffjs",
+            "repo": "geotiff.js",
+            "stars": 1041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASA WebWorldWind",
+          "description": "The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-20T07:17:46Z",
+            "owner": "NASAWorldWind",
+            "repo": "WebWorldWind",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koop",
+          "description": "Transform geospatial data on the fly and serve as GeoJSON, Vector Tiles, Esri Feature Services and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-04T10:02:47Z",
+            "owner": "koopjs",
+            "repo": "koop",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueMapbox",
+          "description": "Vue 2 components for interacting with Mapbox GL JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-19T10:01:31Z",
+            "owner": "soal",
+            "repo": "vue-mapbox",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leaflet TimeDimension",
+          "description": "Add time dimension capabilities on a Leaflet map.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-01T21:57:12Z",
+            "owner": "socib",
+            "repo": "Leaflet.TimeDimension",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PGRestAPI",
+          "description": "Node.js REST API for PostGres Spatial Entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-28T19:31:26Z",
+            "owner": "locana-co",
+            "repo": "PGRestAPI",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TileStrata",
+          "description": "A pluggable Node.js map tile server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-21T19:26:45Z",
+            "owner": "naturalatlas",
+            "repo": "tilestrata",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heatcanvas.js",
+          "description": "Yet another heatmap implementation for Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-14T13:59:43Z",
+            "owner": "sunng87",
+            "repo": "heatcanvas",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arc.js",
+          "description": "Calculate great circles routes as lines in GeoJSON or WKT format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T14:34:57Z",
+            "owner": "springmeyer",
+            "repo": "arc.js",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ui-leaflet",
+          "description": "AngularJS directive to embed an interact with maps managed by Leaflet library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-10T16:17:39Z",
+            "owner": "angular-ui",
+            "repo": "ui-leaflet",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Galton",
+          "description": "Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-16T00:55:44Z",
+            "owner": "urbica",
+            "repo": "galton",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson2svg",
+          "description": "A library to convert geojson data to svg map with lots of flexibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-26T03:58:31Z",
+            "owner": "gagan-bansal",
+            "repo": "geojson2svg",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leaflet-geoserver-request",
+          "description": "This is the small library which helps to connect geoserver with leaflet. Using this library, we can make WMS, WFS, getLegendGraphic, WMS-Image request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-05T16:42:58Z",
+            "owner": "iamtekson",
+            "repo": "leaflet-geoserver-request",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geoblaze",
+          "description": "Geoblaze is a geospatial raster processing engine written purely in javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-05T22:33:30Z",
+            "owner": "GeoTIFF",
+            "repo": "geoblaze",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osm-static-maps",
+          "description": "Openstreetmap static maps is a nodejs lib, CLI and server to create map images based on tiles + layers. Inspired on google static map service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-25T14:17:11Z",
+            "owner": "jperelli",
+            "repo": "osm-static-maps",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bing Maps V8 Code Samples",
+          "description": "A large collection of open source code samples for Bing Maps V8.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2024-05-24T07:38:10Z",
+            "owner": "microsoft",
+            "repo": "BingMapsV8CodeSamples",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapboxgl-powerbi",
+          "description": "Mapbox GL PowerBI custom visual.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-03-30T14:47:46Z",
+            "owner": "mapbox",
+            "repo": "mapboxgl-powerbi",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tilegarden",
+          "description": "Serverless raster and vector map tile generation using Mapnik and AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T22:48:47Z",
+            "owner": "azavea",
+            "repo": "tilegarden",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landspeed.js",
+          "description": "WMS server using node-mapnik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-07T19:06:19Z",
+            "owner": "springmeyer",
+            "repo": "landspeed.js",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tilelive-postgis",
+          "description": "Implements the tilelive API for generating mapnik vector tiles from PostGIS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T17:22:53Z",
+            "owner": "stepankuzmin",
+            "repo": "tilelive-postgis",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bing Maps V8 TypeScript Definitions",
+          "description": "TypeScript Definitions for the Bing Maps V8 web control.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-05-24T07:49:04Z",
+            "owner": "microsoft",
+            "repo": "Bing-Maps-V8-TypeScript-Definitions",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geokit",
+          "description": "Geokit is a command-line interface (CLI) tool written in javascript, that contains all the basic functionalities for measurements, conversions and operations of geojson files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T15:56:35Z",
+            "owner": "developmentseed",
+            "repo": "geokit",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TileMantle",
+          "description": "A tool to warm up your tile server cache. Give it a URL template, geometry, and list of zoom levels and it will request tiles incrementally to warm it up.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-06T08:38:04Z",
+            "owner": "naturalatlas",
+            "repo": "tilemantle",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moveet",
+          "description": "Real-time vehicle fleet simulator with A* pathfinding on real road networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:10:11Z",
+            "owner": "ivannovazzi",
+            "repo": "moveet",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tilestrata-mapnik",
+          "description": "TileStrata provider for rendering tiles with mapnik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-23T22:12:51Z",
+            "owner": "naturalatlas",
+            "repo": "tilestrata-mapnik",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial",
+          "description": "A 2d spatial hash module for node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2011-05-21T16:06:27Z",
+            "owner": "troufster",
+            "repo": "spatial",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thermo.js",
+          "description": "Another heatmap implementation for Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-04-19T05:58:27Z",
+            "owner": "dazuma",
+            "repo": "thermo.js",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windshaft",
+          "description": "A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.",
+          "children": []
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ViziCities",
+          "description": "A framework for 3D geospatial visualization in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-02T17:59:13Z",
+            "owner": "UDST",
+            "repo": "vizicities",
+            "stars": 2715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataFrames.jl",
+          "description": "Tools for working with tabular data in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-12T07:15:35Z",
+            "owner": "JuliaData",
+            "repo": "DataFrames.jl",
+            "stars": 1830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terriajs",
+          "description": "A library for building rich, web-based geospatial data explorers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T11:09:34Z",
+            "owner": "TerriaJS",
+            "repo": "terriajs",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoStats.jl",
+          "description": "Geostatistics in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-07T12:06:31Z",
+            "owner": "JuliaEarth",
+            "repo": "GeoStats.jl",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Images.jl",
+          "description": "An image processing library for Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-05-01T23:51:13Z",
+            "owner": "JuliaImages",
+            "repo": "Images.jl",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArchGDAL",
+          "description": "Vector and Raster interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-12T01:14:00Z",
+            "owner": "yeesian",
+            "repo": "ArchGDAL.jl",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoInterface.jl",
+          "description": "A Julia Protocol for Geospatial Data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-01T22:08:30Z",
+            "owner": "JuliaGeo",
+            "repo": "GeoInterface.jl",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoronoiDelaunay.jl",
+          "description": "Fast, robust construction of 2D Delaunay and Voronoi tessellations on generic point types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2023-06-28T11:42:07Z",
+            "owner": "JuliaGeometry",
+            "repo": "VoronoiDelaunay.jl",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClimateTools.jl",
+          "description": "Collection of commonly-used tools in Climate Science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-07-23T14:41:14Z",
+            "owner": "JuliaClimate",
+            "repo": "ClimateTools.jl",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetCDF.jl",
+          "description": "NetCDF support for the julia programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-12-15T13:05:07Z",
+            "owner": "meggart",
+            "repo": "NetCDF.jl",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geodesy.jl",
+          "description": "Work with points defined in various coordinate systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-24T23:08:31Z",
+            "owner": "JuliaGeo",
+            "repo": "Geodesy.jl",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageFiltering.jl",
+          "description": "ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-12-15T04:27:28Z",
+            "owner": "JuliaImages",
+            "repo": "ImageFiltering.jl",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shapefile.jl",
+          "description": "Parsing .shp files in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-26T13:34:16Z",
+            "owner": "JuliaGeo",
+            "repo": "Shapefile.jl",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoJSON.jl",
+          "description": "This library is developed independently of, but is heavily influenced in design by the python-geojson package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-29T11:42:31Z",
+            "owner": "JuliaGeo",
+            "repo": "GeoJSON.jl",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EcologicalNetwork.jl",
+          "description": "This julia package provides a common interface to analyze all types of data on ecological networks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Julia",
+            "last_commit": "2023-06-23T19:01:27Z",
+            "owner": "PoisotLab",
+            "repo": "EcologicalNetworks.jl",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenStreetMaps.jl",
+          "description": "This package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2016-07-14T18:45:13Z",
+            "owner": "tedsteiner",
+            "repo": "OpenStreetMap.jl",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proj4.jl",
+          "description": "A simple wrapper around the Proj.4 cartographic projections library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-24T18:22:28Z",
+            "owner": "JuliaGeo",
+            "repo": "Proj.jl",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageFeatures.jl",
+          "description": "Image feature detection for the Julia language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-07-01T11:34:01Z",
+            "owner": "JuliaImages",
+            "repo": "ImageFeatures.jl",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageTransformations.jl",
+          "description": "This package provides support for image resizing, image rotation, and other spatial transformations of arrays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-30T10:37:24Z",
+            "owner": "JuliaImages",
+            "repo": "ImageTransformations.jl",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageSegmentation.jl",
+          "description": "Julia package for multiple Image Segmentation Algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-30T10:28:49Z",
+            "owner": "JuliaImages",
+            "repo": "ImageSegmentation.jl",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageMorphology.jl",
+          "description": "This package provides morphology-related functionality to the Images.jl project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-30T10:57:15Z",
+            "owner": "JuliaImages",
+            "repo": "ImageMorphology.jl",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoStatsImages.jl",
+          "description": "Training images for geostastical simulation in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-30T13:59:42Z",
+            "owner": "JuliaEarth",
+            "repo": "GeoStatsImages.jl",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasterIO.jl",
+          "description": "Simple Raster Formats for Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2017-12-19T17:50:03Z",
+            "owner": "wkearn",
+            "repo": "RasterIO.jl",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageMetadata.jl",
+          "description": "ImageMetadata is a simple package providing utilities for working with images that have metadata attached.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-11-06T23:22:14Z",
+            "owner": "JuliaImages",
+            "repo": "ImageMetadata.jl",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibSpatialIndex.jl",
+          "description": "A library for spatially indexing kD bounding box data (based on libspatialindex).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-24T20:49:06Z",
+            "owner": "JuliaGeo",
+            "repo": "LibSpatialIndex.jl",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazIO.jl",
+          "description": "Extends LasIO with Laszip integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-29T19:44:48Z",
+            "owner": "evetion",
+            "repo": "LazIO.jl",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NMEA.jl",
+          "description": "NMEA.jl is a package for parsing NMEA GPS protocol sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2021-08-16T12:42:09Z",
+            "owner": "RobBlackwell",
+            "repo": "NMEA.jl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watershed.jl",
+          "description": "This is a translation of Zlateski's C++ Watershed code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2018-10-30T14:50:52Z",
+            "owner": "seung-lab",
+            "repo": "Watershed.jl",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JuliaGIS",
+          "description": "A package for the visualization and manipulation of geographic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2014-03-26T21:59:21Z",
+            "owner": "wkearn",
+            "repo": "GIS.jl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LASindex.jl",
+          "description": "Pure Julia reader of lasindex .lax files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2020-07-17T22:10:38Z",
+            "owner": "evetion",
+            "repo": "LASindex.jl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibLAS.jl",
+          "description": "Julia wrapper for LibLAS, a library for reading and writing the LAS LiDAR format.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Julia",
+            "last_commit": "2018-11-08T17:24:14Z",
+            "owner": "visr",
+            "repo": "LibLAS.jl",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinker.jl",
+          "description": "Interactive graphical tool for complex image analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2020-12-24T15:23:43Z",
+            "owner": "JuliaImages",
+            "repo": "Tinker.jl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turf.jl",
+          "description": "This library is a port of Turf.js to the Julia programming language for geospatial analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2020-02-08T17:22:40Z",
+            "owner": "yeesian",
+            "repo": "Turf.jl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDALfuns.jl",
+          "description": "Auto-generated low-level wrapper for the GDAL library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2015-09-04T12:03:32Z",
+            "owner": "meggart",
+            "repo": "GDALfuns.jl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interpolations.jl",
+          "description": "This package implements a variety of interpolation schemes for the Julia language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2023-11-25T11:51:06Z",
+            "owner": "juliohm",
+            "repo": "Interpolations.jl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibGEOS.jl",
+          "description": "LibGEOS is a LGPL-licensed package for manipulation and analysis of planar geometric objects, based on the libraries GEOS (the engine of PostGIS) and JTS (from which GEOS is ported).",
+          "children": []
+        }
+      ],
+      "title": "Julia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lets-Plot",
+          "description": "An open-source, ggplot2-style plotting library which includes a support of GeoToos features and geometries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-02T15:58:42Z",
+            "owner": "JetBrains",
+            "repo": "lets-plot-kotlin",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geospatial-messenger",
+          "description": "Geospatial messenger application written with Spring Boot + Kotlin + PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2018-03-11T19:52:00Z",
+            "owner": "sdeleuze",
+            "repo": "geospatial-messenger",
+            "stars": 220
+          }
+        }
+      ],
+      "title": "Kotlin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cl-ewkb",
+          "description": "Common Lisp PostGIS EWKB data model and encoder/decoder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2011-06-08T11:45:16Z",
+            "owner": "filonenko-mikhail",
+            "repo": "cl-ewkb",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utm",
+          "description": "Lisp library for converting between latitude/longitude and UTM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-01-28T19:20:54Z",
+            "owner": "jl2",
+            "repo": "utm",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Lisp"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geo.lua",
+          "description": "A helper library for Redis geospatial indices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-09-26T15:17:17Z",
+            "owner": "RedisLabs",
+            "repo": "geo.lua",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tarantool/GIS",
+          "description": "A full-featured geospatial extension for Tarantool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2022-10-28T08:55:07Z",
+            "owner": "tarantool",
+            "repo": "gis",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Lua"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FreeGeoDB",
+          "description": "Free database of geographic place names and corresponding geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-10-19T15:52:16Z",
+            "owner": "delight-im",
+            "repo": "FreeGeoDB",
+            "stars": 1574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Magellan",
+          "description": "A modern PostGIS integration for Laravel 9+, including parsers and generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-23T10:06:07Z",
+            "owner": "clickbar",
+            "repo": "laravel-magellan",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson",
+          "description": "GeoJSON implementation for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-17T16:50:33Z",
+            "owner": "jmikola",
+            "repo": "geojson",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geospatial",
+          "description": "PHP Extension to handle common geospatial functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-01T11:09:19Z",
+            "owner": "php-geospatial",
+            "repo": "geospatial",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-geo",
+          "description": "GeoSpatial integration on Laravel 5.2+ that supports MySQL and PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-17T15:31:55Z",
+            "owner": "eleven-lab",
+            "repo": "laravel-geo",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shapefile",
+          "description": "ESRI ShapeFile library for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T15:08:50Z",
+            "owner": "phpmyadmin",
+            "repo": "shapefile",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP7 Mapnik",
+          "description": "PHP extension for geospatial rendering with Mapnik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-05T00:28:47Z",
+            "owner": "garrettrayj",
+            "repo": "php7-mapnik",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "li3_geo",
+          "description": "Adds geospatial support to Lithium for multiple databases, including MongoDB, CouchDB and MySQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-01-25T00:56:48Z",
+            "owner": "nateabele",
+            "repo": "li3_geo",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laragis",
+          "description": "A standalone Geo/GIS Provider for Laravel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-07-22T22:23:02Z",
+            "owner": "ralphschindler",
+            "repo": "laragis",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShapeReader",
+          "description": "A PHP library to parse ESRI Shape files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-24T10:50:43Z",
+            "owner": "muka",
+            "repo": "ShapeReader",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-libspatialite",
+          "description": "PHP Query Builder for SQLite data with Spatial SQL Capabilities.",
+          "children": []
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydeck",
+          "description": "High-scale spatial rendering in Python, powered by deck.gl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:50:19Z",
+            "owner": "visgl",
+            "repo": "deck.gl",
+            "stars": 14370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlenderGIS",
+          "description": "A blender addons to make the bridge between Blender and geographic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-20T18:19:10Z",
+            "owner": "domlysz",
+            "repo": "BlenderGIS",
+            "stars": 9280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSMnx",
+          "description": "Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T17:24:41Z",
+            "owner": "gboeing",
+            "repo": "osmnx",
+            "stars": 5808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPandas",
+          "description": "Python tools for geographic data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:32:23Z",
+            "owner": "geopandas",
+            "repo": "geopandas",
+            "stars": 5222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geopy",
+          "description": "geopy is a Python 2 and 3 client for several popular geocoding web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T19:49:44Z",
+            "owner": "geopy",
+            "repo": "geopy",
+            "stars": 4837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shapely",
+          "description": "A library for manipulation and analysis of geometric objects in the Cartesian plane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:28:20Z",
+            "owner": "shapely",
+            "repo": "shapely",
+            "stars": 4489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geemap",
+          "description": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T01:12:46Z",
+            "owner": "gee-community",
+            "repo": "geemap",
+            "stars": 4011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "som-tsp",
+          "description": "Solving the Traveling Salesman Problem using Self-Organizing Maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-24T16:40:59Z",
+            "owner": "diego-vicente",
+            "repo": "som-tsp",
+            "stars": 3932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rasterio",
+          "description": "A library for reads and writes geospatial raster data)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:10:01Z",
+            "owner": "rasterio",
+            "repo": "rasterio",
+            "stars": 2558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "felicette",
+          "description": "Satellite imagery for dummies.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-12T00:43:06Z",
+            "owner": "plant99",
+            "repo": "felicette",
+            "stars": 1842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MovingPandas",
+          "description": "Implementation of Trajectory classes and functions built on top of GeoPandas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T11:18:23Z",
+            "owner": "movingpandas",
+            "repo": "movingpandas",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "city2graph",
+          "description": "Python library for converting geospatial datasets into graphs (networks) for geospatial network analysis and GeoAI with GNNs (Graph Neural Networks).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T02:12:17Z",
+            "owner": "c2g-dev",
+            "repo": "city2graph",
+            "stars": 1386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fiona",
+          "description": "IO for GIS Data writted by Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T23:53:44Z",
+            "owner": "Toblerity",
+            "repo": "Fiona",
+            "stars": 1246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyproj",
+          "description": "python interface to PROJ4 library for cartographic transformations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:21:16Z",
+            "owner": "pyproj4",
+            "repo": "pyproj",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinelsat",
+          "description": "Search and download Copernicus Sentinel satellite images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-02T09:22:49Z",
+            "owner": "sentinelsat",
+            "repo": "sentinelsat",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xarray-spatial",
+          "description": "Raster-Based Spatial Analysis in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T13:21:09Z",
+            "owner": "xarray-contrib",
+            "repo": "xarray-spatial",
+            "stars": 961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mahotas",
+          "description": "Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T03:35:16Z",
+            "owner": "luispedro",
+            "repo": "mahotas",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPostal",
+          "description": "Python bindings to libpostal for fast international address parsing/normalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-01T02:38:28Z",
+            "owner": "openvenues",
+            "repo": "pypostal",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thunder",
+          "description": "Thunder is an ecosystem of tools for the analysis of image and time series data in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-06T20:16:55Z",
+            "owner": "thunder-project",
+            "repo": "thunder",
+            "stars": 822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terracotta",
+          "description": "A light-weight, versatile XYZ tile server, built with Flask and Rasterio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T12:48:50Z",
+            "owner": "DHI",
+            "repo": "terracotta",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landsat-util",
+          "description": "Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-14T18:05:53Z",
+            "owner": "developmentseed",
+            "repo": "landsat-util",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rtree",
+          "description": "A wrapper of libspatialindex providing spatial indexing features for Python GIS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T00:19:48Z",
+            "owner": "Toblerity",
+            "repo": "rtree",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapboxgl-jupyter",
+          "description": "Use Mapbox GL JS to visualize data in a Python Jupyter notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-06T21:36:12Z",
+            "owner": "mapbox",
+            "repo": "mapboxgl-jupyter",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verde",
+          "description": "Verde is a Python library for processing spatial data (bathymetry, geophysics surveys, etc) and interpolating it on regular grids (i.e., gridding).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T17:47:38Z",
+            "owner": "fatiando",
+            "repo": "verde",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyroSAR",
+          "description": "A Python Framework for Large-Scale SAR Satellite Data Processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:50:51Z",
+            "owner": "johntruckenbrodt",
+            "repo": "pyroSAR",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rio-tiler",
+          "description": "Get mercator tile from landsat, sentinel or other AWS hosted raster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:49:37Z",
+            "owner": "cogeotiff",
+            "repo": "rio-tiler",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoSQL",
+          "description": "Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Renders interactive maps automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T11:37:44Z",
+            "owner": "dekart-xyz",
+            "repo": "geosql",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rasterstats",
+          "description": "Python module for summarizing geospatial raster datasets based on vector geometries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T21:14:13Z",
+            "owner": "perrygeo",
+            "repo": "python-rasterstats",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urbansim",
+          "description": "New version of UrbanSim, a platform for modeling metropolitan real estate markets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-06T15:15:15Z",
+            "owner": "UDST",
+            "repo": "urbansim",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymap3d",
+          "description": "Python 3D coordinate conversions for geospace ecef enu eci.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T01:32:21Z",
+            "owner": "geospace-code",
+            "repo": "pymap3d",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandana",
+          "description": "Pandas Network Analysis - dataframes of network queries, quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-25T06:09:34Z",
+            "owner": "UDST",
+            "repo": "pandana",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whitebox",
+          "description": "Python frontend for WhiteboxTools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T18:22:47Z",
+            "owner": "opengeos",
+            "repo": "whitebox-python",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rio-cogeo",
+          "description": "CloudOptimized GeoTIFF creation plugin for rasterio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T20:07:19Z",
+            "owner": "cogeotiff",
+            "repo": "rio-cogeo",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyGEOS",
+          "description": "Expose GEOS functions into Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-03T22:18:57Z",
+            "owner": "pygeos",
+            "repo": "pygeos",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srai",
+          "description": "Spatial Representations for Artificial Intelligence. Set of tools for geospatial machine learning, data acquisition and wrangling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:52:40Z",
+            "owner": "kraina-ai",
+            "repo": "srai",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuackOSM",
+          "description": "Library and a CLI tool for downloading, filtering and transforming files into files using DuckDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:53:47Z",
+            "owner": "kraina-ai",
+            "repo": "quackosm",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "localtileserver",
+          "description": "Easily visualize large geospatial images with ipyleaflet or folium in Jupyter or in a web browser with CesiumJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T06:56:05Z",
+            "owner": "banesullivan",
+            "repo": "localtileserver",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhiteboxTools-ArcGIS",
+          "description": "ArcGIS Python Toolbox for WhiteboxTools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T19:12:04Z",
+            "owner": "opengeos",
+            "repo": "WhiteboxTools-ArcGIS",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lidar",
+          "description": "Terrain and hydrological analysis using digital elevation models (DEMs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T20:31:17Z",
+            "owner": "opengeos",
+            "repo": "lidar",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geosnap",
+          "description": "geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T04:45:20Z",
+            "owner": "oturns",
+            "repo": "geosnap",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaterDetect",
+          "description": "An end-to-end algorithm to generate open water cover mask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-10T21:19:19Z",
+            "owner": "cordmaur",
+            "repo": "WaterDetect",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LANDSAT-Download",
+          "description": "Automated download of LANDSAT data from USGS website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-12T09:54:52Z",
+            "owner": "olivierhagolle",
+            "repo": "LANDSAT-Download",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peartree",
+          "description": "Peartree: A library for converting transit data into a directed graph for network analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-05T14:06:10Z",
+            "owner": "kuanb",
+            "repo": "peartree",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morecantile",
+          "description": "Construct and use map tile grids (a.k.a TileMatrixSet / TMS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T11:47:20Z",
+            "owner": "developmentseed",
+            "repo": "morecantile",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rio-color",
+          "description": "Color correction plugin for rasterio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T15:10:56Z",
+            "owner": "mapbox",
+            "repo": "rio-color",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ogcserver",
+          "description": "Python WMS implementation using Mapnik.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-26T17:18:25Z",
+            "owner": "mapnik",
+            "repo": "OGCServer",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geeup",
+          "description": "Simple CLI for Earth Engine Uploads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-31T23:01:03Z",
+            "owner": "samapriya",
+            "repo": "geeup",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojsonio.py",
+          "description": "Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-25T14:19:04Z",
+            "owner": "jwass",
+            "repo": "geojsonio.py",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USGS API",
+          "description": "USGS is a python module for interfacing with the US Geological Survey's API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T15:13:17Z",
+            "owner": "kapadia",
+            "repo": "usgs",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geoalchemy",
+          "description": "Using SQLAlchemy with spatial databases.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-23T13:30:46Z",
+            "owner": "geoalchemy",
+            "repo": "geoalchemy",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dask-rasterio",
+          "description": "Read and write rasters in parallel using Rasterio and Dask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-28T14:35:47Z",
+            "owner": "dymaxionlabs",
+            "repo": "dask-rasterio",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-area",
+          "description": "Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-31T15:13:12Z",
+            "owner": "scisco",
+            "repo": "area",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rio-hist",
+          "description": "Histogram matching plugin for rasterio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T15:10:53Z",
+            "owner": "mapbox",
+            "repo": "rio-hist",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geobeam",
+          "description": "geobeam adds GIS capabilities to your Apache Beam and Dataflow pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-04T14:43:46Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "dataflow-geobeam",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-opencage-geocoder",
+          "description": "A Python module that uses the OpenCage Geocoding API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T15:44:25Z",
+            "owner": "OpenCageData",
+            "repo": "python-opencage-geocoder",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mundipy",
+          "description": "Python framework for fast spatial data manipulation without projections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-28T08:39:21Z",
+            "owner": "BuntingLabs",
+            "repo": "mundipy",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GIPPY",
+          "description": "Geospatial Image Processing for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-06T18:39:21Z",
+            "owner": "gipit",
+            "repo": "gippy",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-shave",
+          "description": "a Python command-line tool for reducing the size of GeoJSON files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-04T09:00:14Z",
+            "owner": "ben-nour",
+            "repo": "geojson-shave",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mahotas-imread",
+          "description": "Read images to numpy arrays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-03T00:31:25Z",
+            "owner": "luispedro",
+            "repo": "imread",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSMnet",
+          "description": "Tools for the extraction of OpenStreetMap street network data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-08T17:21:25Z",
+            "owner": "UDST",
+            "repo": "osmnet",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsm2dtm",
+          "description": "Python library for converting Digital Surface Models (DSMs) to Digital Terrain Models (DTMs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T13:16:33Z",
+            "owner": "seedlit",
+            "repo": "dsm2dtm",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YATSM",
+          "description": "Yet Another Timeseries Model (YATSM) is a Python package for utilizing a collection of timeseries algorithms and methods designed to monitor the land surface using remotely sensed imagery.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-02-13T19:08:41Z",
+            "owner": "ceholden",
+            "repo": "yatsm",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landsat-extract-gee",
+          "description": "Get Landsat surface reflectance time-series from google earth engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-11T19:58:11Z",
+            "owner": "loicdtx",
+            "repo": "landsat-extract-gee",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoDaSpace",
+          "description": "Software for Advanced Spatial Econometrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-01T06:20:16Z",
+            "owner": "GeoDaCenter",
+            "repo": "GeoDaSpace",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geopatra",
+          "description": "Create interactive maps with geopandas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T22:41:01Z",
+            "owner": "Sangarshanan",
+            "repo": "geopatra",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpdvega",
+          "description": "gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-24T15:00:46Z",
+            "owner": "iliatimofeev",
+            "repo": "gpdvega",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chupaESRI",
+          "description": "ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T02:31:05Z",
+            "owner": "johnjreiser",
+            "repo": "chupaESRI",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "untiler",
+          "description": "Stitch image tiles into larger composite TIFs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-02-21T18:22:05Z",
+            "owner": "mapbox",
+            "repo": "untiler",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Centroids",
+          "description": "This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-11T01:46:34Z",
+            "owner": "lyzidiamond",
+            "repo": "centroids",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyncf",
+          "description": "Pure Python NetCDF file reading and writing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-27T22:12:26Z",
+            "owner": "karimbahgat",
+            "repo": "pyncf",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eo-box",
+          "description": "Earth observation processing framework for machine learning in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-07T19:04:32Z",
+            "owner": "benmack",
+            "repo": "eo-box",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LT-ChangeDB",
+          "description": "Scripts to extract spectral change information from LandTrendr data to a geodatabase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-18T15:54:29Z",
+            "owner": "eMapR",
+            "repo": "LT-ChangeDB",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-raster",
+          "description": "ts-raster is a python package for analyzing time-series characteristics from raster data. It allows feature extraction, dimension reduction and applications of machine learning techniques for geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T14:36:53Z",
+            "owner": "adbedada",
+            "repo": "ts-raster",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rayshader",
+          "description": "rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-12T02:35:00Z",
+            "owner": "tylermorganwall",
+            "repo": "rayshader",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sf",
+          "description": "Simple Features for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-22T09:21:50Z",
+            "owner": "r-spatial",
+            "repo": "sf",
+            "stars": 1442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgee",
+          "description": "Google Earth Engine for R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-10T03:40:10Z",
+            "owner": "r-spatial",
+            "repo": "rgee",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lidR",
+          "description": "R package for airborne LiDAR data manipulation and visualisation for forestry application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-18T12:07:51Z",
+            "owner": "r-lidar",
+            "repo": "lidR",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stars",
+          "description": "Spatiotemporal tidy arrays for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-20T14:56:02Z",
+            "owner": "r-spatial",
+            "repo": "stars",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggspatial",
+          "description": "A ggplot2 R extension for plotting Spatial- objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-24T20:15:21Z",
+            "owner": "paleolimbot",
+            "repo": "ggspatial",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapdeck",
+          "description": "R interface to Deck.gl and Mapbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-21T00:30:26Z",
+            "owner": "SymbolixAU",
+            "repo": "mapdeck",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getSpatialData",
+          "description": "An R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-07-10T15:43:49Z",
+            "owner": "16EAGLE",
+            "repo": "getSpatialData",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exactextractr",
+          "description": "R package for fast and accurate raster zonal statistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-03T01:09:25Z",
+            "owner": "isciences",
+            "repo": "exactextractr",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "landscapemetrics",
+          "description": "landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-17T13:26:02Z",
+            "owner": "r-spatialecology",
+            "repo": "landscapemetrics",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "googleway",
+          "description": "R Package for accessing and plotting Google Maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-09-24T04:57:50Z",
+            "owner": "SymbolixAU",
+            "repo": "googleway",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whiteboxR",
+          "description": "R frontend of WhiteboxTools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-10-21T00:26:06Z",
+            "owner": "opengeos",
+            "repo": "whiteboxR",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidytransit",
+          "description": "'sf'-compatible package to analyze transit schedules, routes, and stops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-23T08:35:09Z",
+            "owner": "r-transit",
+            "repo": "tidytransit",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prioritizr",
+          "description": "The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-17T23:41:23Z",
+            "owner": "prioritizr",
+            "repo": "prioritizr",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdalcubes_R",
+          "description": "R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-29T09:39:22Z",
+            "owner": "appelmar",
+            "repo": "gdalcubes",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geodist",
+          "description": "Ultra lightweight, ultra fast calculation of geo distances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-19T07:02:24Z",
+            "owner": "hypertidy",
+            "repo": "geodist",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfastSpatial",
+          "description": "Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-05-10T00:00:45Z",
+            "owner": "loicdtx",
+            "repo": "bfastSpatial",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidync",
+          "description": "Systematic approaches to NetCDF data extraction, manipulation and visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-31T19:34:50Z",
+            "owner": "ropensci",
+            "repo": "tidync",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phenofit",
+          "description": "A state-of-the-art Vegetation Phenology extraction package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-09T07:25:01Z",
+            "owner": "eco-hydro",
+            "repo": "phenofit",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vapour",
+          "description": "A lightweight GDAL API package for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-12T13:37:21Z",
+            "owner": "hypertidy",
+            "repo": "vapour",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojsonsf",
+          "description": "Conversion between sf and geojson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-11-26T08:54:20Z",
+            "owner": "SymbolixAU",
+            "repo": "geojsonsf",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h3r",
+          "description": "Uber's h3 bindings to the R Programming Language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-06T13:45:11Z",
+            "owner": "scottmmjackson",
+            "repo": "h3r",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kuenm",
+          "description": "kuenm is an R package designed to make the process of model calibration and final model creation easier and more reproducible, and at the same time more robust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-12-04T15:40:54Z",
+            "owner": "marlonecobos",
+            "repo": "kuenm",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeospatialLineGraphs",
+          "description": "A library for creating geospatial line graphs along lines of latitude.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-10-16T13:51:47Z",
+            "owner": "Brideau",
+            "repo": "GeospatialLineGraphs",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geospark",
+          "description": "Bring sf to spark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-12-13T11:41:21Z",
+            "owner": "harryprince",
+            "repo": "geospark",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModelR",
+          "description": "A workflow for ecological niche models based on dismo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-08-09T17:41:07Z",
+            "owner": "Model-R",
+            "repo": "modleR",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uavRst",
+          "description": "UAV related Remote Sensing Toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-06-18T09:37:02Z",
+            "owner": "gisma",
+            "repo": "uavRst",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teamlucc",
+          "description": "Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2016-06-10T13:32:14Z",
+            "owner": "azvoleff",
+            "repo": "teamlucc",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s2",
+          "description": "R bindings for Google's s2 library for geometry on the sphere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-08-16T06:56:03Z",
+            "owner": "spatstat",
+            "repo": "s2",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncdfgeom",
+          "description": "NetCDF-CF Geometry and Timeseries Tools for R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-22T11:57:39Z",
+            "owner": "DOI-USGS",
+            "repo": "ncdfgeom",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffraster",
+          "description": "Treat ff arrays as raster objects, and vice versa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-10-15T06:33:35Z",
+            "owner": "hypertidy",
+            "repo": "ffraster",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtwSat",
+          "description": "Time-Weighted Dynamic Time Warping for satellite image time series analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-12-26T12:10:38Z",
+            "owner": "vwmaus",
+            "repo": "dtwSat",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secciones-nacionalidades",
+          "description": "R Shiny app to visualize population by nationality at census section level in Spain using INE data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-23T10:40:18Z",
+            "owner": "GeiserX",
+            "repo": "secciones-nacionalidades",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucCalculus",
+          "description": "Spatiotemporal calculus for land use change trajectories.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "sits",
+          "description": "satellite image time series package for R.",
+          "children": []
+        }
+      ],
+      "title": "R"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rgeo",
+          "description": "RGeo is a geospatial data library for Ruby. It provides an implementation of the Open Geospatial Consortium's Simple Features Specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-28T12:22:19Z",
+            "owner": "rgeo",
+            "repo": "rgeo",
+            "stars": 1060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostGIS ActiveRecord Adapter",
+          "description": "ActiveRecord adapter for PostGIS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-16T16:06:38Z",
+            "owner": "rgeo",
+            "repo": "activerecord-postgis-adapter",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rgeo GeoJSON",
+          "description": "RGeo component for reading and writing GeoJSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-10-10T10:57:29Z",
+            "owner": "rgeo",
+            "repo": "rgeo-geojson",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby_postal",
+          "description": "Ruby bindings to libpostal for fast international address parsing/normalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-30T05:48:15Z",
+            "owner": "openvenues",
+            "repo": "ruby_postal",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rgeo Shapefile",
+          "description": "Optional module for RGeo for reading geospatial data from ESRI shapefiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-10-10T10:58:00Z",
+            "owner": "rgeo",
+            "repo": "rgeo-shapefile",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mongoid Geospatial",
+          "description": "A Mongoid Extension that simplifies the use of MongoDB spatial features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-08-09T23:34:13Z",
+            "owner": "mongoid",
+            "repo": "mongoid-geospatial",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffi-geos",
+          "description": "Low-level ruby bindings to GEOS library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-02T03:15:27Z",
+            "owner": "dark-panda",
+            "repo": "ffi-geos",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agroclimatology",
+          "description": "Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-30T14:01:30Z",
+            "owner": "brycejohnston",
+            "repo": "agroclimatology",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evapotranspiration",
+          "description": "Ruby library for calculating reference crop evapotranspiration (ETo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-30T14:00:05Z",
+            "owner": "brycejohnston",
+            "repo": "evapotranspiration",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpatiaLite ActiveRecord Adapter",
+          "description": "ActiveRecord adapter for Spatialite.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2015-08-26T12:17:06Z",
+            "owner": "rgeo",
+            "repo": "activerecord-spatialite-adapter",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Martin",
+          "description": "Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T11:01:06Z",
+            "owner": "maplibre",
+            "repo": "martin",
+            "stars": 3823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-geo",
+          "description": "Geospatial primitives and algorithms for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:34:52Z",
+            "owner": "georust",
+            "repo": "geo",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhiteboxTools",
+          "description": "An advanced geospatial data analysis platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-26T15:31:03Z",
+            "owner": "jblindsay",
+            "repo": "whitebox-tools",
+            "stars": 1188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-gdal",
+          "description": "Rust bindings for GDAL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T04:43:22Z",
+            "owner": "georust",
+            "repo": "gdal",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-geojson",
+          "description": "Library for serializing the GeoJSON vector GIS file format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-29T23:32:48Z",
+            "owner": "georust",
+            "repo": "geojson",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hecate",
+          "description": "Fast Geospatial Feature Storage API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-10-09T14:26:35Z",
+            "owner": "mapbox",
+            "repo": "Hecate",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-proj",
+          "description": "Rust bindings for Proj.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-17T20:22:17Z",
+            "owner": "georust",
+            "repo": "proj",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-gpx",
+          "description": "Rust read/write support for GPS Exchange Format (GPX).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-19T15:24:57Z",
+            "owner": "georust",
+            "repo": "gpx",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-geohash",
+          "description": "Geohash for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-14T12:05:57Z",
+            "owner": "georust",
+            "repo": "geohash",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-geocoding",
+          "description": "Geocoding library for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-16T12:30:18Z",
+            "owner": "georust",
+            "repo": "geocoding",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-wkt",
+          "description": "Rust read/write support for well-known text (WKT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-01T09:38:21Z",
+            "owner": "georust",
+            "repo": "wkt",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-polyline",
+          "description": "Google Encoded Polyline encoding & decoding in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-26T15:49:02Z",
+            "owner": "georust",
+            "repo": "polyline",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-osm",
+          "description": "OSM XML serialization and other OpenStreetMap utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2019-05-24T17:58:34Z",
+            "owner": "georust",
+            "repo": "osm",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-topojson",
+          "description": "TopoJSON bindings and utilities for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-27T19:31:20Z",
+            "owner": "georust",
+            "repo": "topojson",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmptparser",
+          "description": "Open Street Map Public Transport Parser. It merges complicated public transport relations into linestrings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-30T23:13:47Z",
+            "owner": "cualbondi",
+            "repo": "osmptparser",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-shapefile",
+          "description": "Rust read/write support for shapefiles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2019-01-27T01:47:00Z",
+            "owner": "georust",
+            "repo": "shapefile",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoTrellis",
+          "description": "GeoTrellis is a Scala library and framework that uses Spark to work with raster data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T09:43:55Z",
+            "owner": "locationtech",
+            "repo": "geotrellis",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapnik2geotools",
+          "description": "Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-09-01T08:43:56Z",
+            "owner": "dwins",
+            "repo": "mapnik2geotools",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geoscript.scala",
+          "description": "Scala implementation of the GeoScript API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-04-13T22:39:35Z",
+            "owner": "dwins",
+            "repo": "geoscript.scala",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Scala"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GEOSwift",
+          "description": "The Swift Geographic Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-11-09T19:17:58Z",
+            "owner": "GEOSwift",
+            "repo": "GEOSwift",
+            "stars": 1504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapbox Navigation SDK for iOS",
+          "description": "Turn-by-turn navigation logic and UI in Swift or Objective-C on iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T14:45:09Z",
+            "owner": "mapbox",
+            "repo": "mapbox-navigation-ios",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turf-swift",
+          "description": "A Swift language port of Turf.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-29T15:22:11Z",
+            "owner": "mapbox",
+            "repo": "turf-swift",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MapboxDirections.swift",
+          "description": "Traffic-aware directions in Swift or Objective-C on iOS, macOS, tvOS, and watchOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-29T14:52:44Z",
+            "owner": "mapbox",
+            "repo": "mapbox-directions-swift",
+            "stars": 205
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cloud Service"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome GeoSpatial",
+          "description": "Long list of geospatial tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T12:00:01Z",
+            "owner": "sacridini",
+            "repo": "Awesome-Geospatial",
+            "stars": 5246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-satellite-imagery-datasets",
+          "description": "List of satellite imagery datasets with annotations for computer vision and deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-vector-tiles",
+          "description": "awesome implementations of the Mapbox Vector Tile specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T19:17:38Z",
+            "owner": "mapbox",
+            "repo": "awesome-vector-tiles",
+            "stars": 2620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-geojson",
+          "description": "GeoJSON utilities that will make your life easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T13:51:40Z",
+            "owner": "tmcw",
+            "repo": "awesome-geojson",
+            "stars": 2525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-sensing-change-detection",
+          "description": "List of datasets, codes, researchers and contests related to remote sensing change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T14:44:49Z",
+            "owner": "wenhwu",
+            "repo": "awesome-remote-sensing-change-detection",
+            "stars": 2299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-open-geoscience",
+          "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T11:55:08Z",
+            "owner": "softwareunderground",
+            "repo": "awesome-open-geoscience",
+            "stars": 1811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-earthobservation-code",
+          "description": "curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-13T19:36:13Z",
+            "owner": "acgeospatial",
+            "repo": "awesome-earthobservation-code",
+            "stars": 1377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-GEE",
+          "description": "A curated list of Google Earth Engine resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T20:27:02Z",
+            "owner": "opengeos",
+            "repo": "Awesome-GEE",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-geospatial-companies",
+          "description": "List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T02:14:59Z",
+            "owner": "chrieke",
+            "repo": "awesome-geospatial-companies",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-arcgis-developers",
+          "description": "A curated list of resources to help you with ArcGIS development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-14T09:15:02Z",
+            "owner": "Esri",
+            "repo": "awesome-arcgis-developers",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Historic(al) Maps",
+          "description": "Awesome list of resources, databases and tools related to Historic Maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-30T23:02:57Z",
+            "owner": "stark1tty",
+            "repo": "awesome-historical-maps",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-arcgis",
+          "description": "Resource list / Wiki for ArcGIS users and developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-01-05T06:05:31Z",
+            "owner": "esri-es",
+            "repo": "awesome-arcgis",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-qgis",
+          "description": "An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T14:27:47Z",
+            "owner": "totpero",
+            "repo": "awesome-qgis",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Awesome-Awesome"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reference"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:21.574Z",
+    "original_repository": "sshuair/awesome-gis",
+    "original_repository_sha": "0f21c1f6aa9fcefb044456827e9eb8363135f392",
+    "enhanced_repository": "enhansome/enhansome-gis",
+    "enhanced_repository_description": null,
+    "title": "Awesome GIS with stars"
+  }
+}
