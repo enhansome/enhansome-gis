@@ -99,7 +99,7 @@
             "archived": false,
             "id": 319779344,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:31Z",
+            "last_commit": "2026-08-24T15:18:16Z",
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
             "stars": 11420
@@ -518,7 +518,7 @@
                 "last_commit": "2025-10-21T02:32:13Z",
                 "owner": "CosmiQ",
                 "repo": "solaris",
-                "stars": 441
+                "stars": 442
               }
             },
             {
@@ -623,7 +623,7 @@
             "archived": false,
             "id": 314553426,
             "language": "C++",
-            "last_commit": "2026-08-24T13:52:22Z",
+            "last_commit": "2026-08-24T14:14:36Z",
             "owner": "maplibre",
             "repo": "maplibre-native",
             "stars": 2162
@@ -743,7 +743,7 @@
                 "archived": false,
                 "id": 5241312,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:48:08Z",
+                "last_commit": "2026-08-24T15:30:27Z",
                 "owner": "halide",
                 "repo": "Halide",
                 "stars": 6586
@@ -758,7 +758,7 @@
                 "archived": false,
                 "id": 24470090,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:02:07Z",
+                "last_commit": "2026-08-24T15:53:32Z",
                 "owner": "OpenDroneMap",
                 "repo": "ODM",
                 "stars": 6390
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 49978193,
                 "language": "C++",
-                "last_commit": "2026-08-22T12:28:44Z",
+                "last_commit": "2026-08-24T14:10:54Z",
                 "owner": "valhalla",
                 "repo": "valhalla",
-                "stars": 6110
+                "stars": 6111
               }
             },
             {
@@ -1776,7 +1776,7 @@
                 "last_commit": "2026-08-18T15:45:42Z",
                 "owner": "komoot",
                 "repo": "photon",
-                "stars": 3000
+                "stars": 3001
               }
             },
             {
@@ -1855,10 +1855,10 @@
                 "archived": false,
                 "id": 3606738,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:05:31Z",
+                "last_commit": "2026-08-24T16:14:04Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15596
+                "stars": 15597
               }
             },
             {
@@ -1873,7 +1873,7 @@
                 "last_commit": "2026-08-24T01:03:13Z",
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14513
+                "stars": 14515
               }
             },
             {
@@ -3347,7 +3347,7 @@
                 "last_commit": "2026-08-24T01:03:13Z",
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14513
+                "stars": 14515
               }
             },
             {
@@ -3482,7 +3482,7 @@
                 "last_commit": "2026-08-18T10:22:38Z",
                 "owner": "c2g-dev",
                 "repo": "city2graph",
-                "stars": 1843
+                "stars": 1846
               }
             },
             {
@@ -4064,7 +4064,7 @@
                 "archived": false,
                 "id": 28238829,
                 "language": "Python",
-                "last_commit": "2026-05-18T15:13:17Z",
+                "last_commit": "2026-08-24T15:59:52Z",
                 "owner": "kapadia",
                 "repo": "usgs",
                 "stars": 119
@@ -5419,7 +5419,7 @@
                 "archived": false,
                 "id": 73870932,
                 "language": "Swift",
-                "last_commit": "2026-08-24T11:16:25Z",
+                "last_commit": "2026-08-24T15:33:53Z",
                 "owner": "mapbox",
                 "repo": "mapbox-navigation-ios",
                 "stars": 917
@@ -5792,7 +5792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:54:13.350Z",
+    "last_updated": "2026-08-24T16:17:42.471Z",
     "original_repository": "sshuair/awesome-gis",
     "original_repository_id": 52671720,
     "original_repository_sha": "0f21c1f6aa9fcefb044456827e9eb8363135f392",
