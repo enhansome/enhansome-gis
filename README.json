@@ -157,11 +157,11 @@
             "id": 319779344,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T21:32:51Z",
-            "open_issues": 386,
+            "last_commit": "2026-08-29T11:46:54Z",
+            "open_issues": 385,
             "owner": "maplibre",
             "repo": "maplibre-gl-js",
-            "stars": 11480,
+            "stars": 11483,
             "topics": [
               "hacktoberfest",
               "maplibre",
@@ -699,7 +699,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11385,
+                "stars": 11384,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -752,7 +752,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2313,
+                "stars": 2312,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -1008,7 +1008,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2313,
+                "stars": 2312,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -1084,8 +1084,8 @@
             "id": 314553426,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T02:19:44Z",
-            "open_issues": 573,
+            "last_commit": "2026-08-29T18:02:40Z",
+            "open_issues": 574,
             "owner": "maplibre",
             "repo": "maplibre-native",
             "stars": 2171,
@@ -1159,7 +1159,7 @@
                 "open_issues": 81,
                 "owner": "libvips",
                 "repo": "libvips",
-                "stars": 11614,
+                "stars": 11615,
                 "topics": [
                   "c",
                   "cpp",
@@ -1197,10 +1197,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:37:27Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "uber",
                 "repo": "h3",
-                "stars": 6504,
+                "stars": 6506,
                 "topics": [
                   "geospatial",
                   "h3",
@@ -1304,11 +1304,11 @@
                 "id": 5241312,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T20:59:00Z",
-                "open_issues": 778,
+                "last_commit": "2026-08-29T17:48:50Z",
+                "open_issues": 777,
                 "owner": "halide",
                 "repo": "Halide",
-                "stars": 6592,
+                "stars": 6593,
                 "topics": [
                   "compiler",
                   "dsl",
@@ -1362,10 +1362,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T19:28:34Z",
-                "open_issues": 934,
+                "open_issues": 938,
                 "owner": "valhalla",
                 "repo": "valhalla",
-                "stars": 6125,
+                "stars": 6130,
                 "topics": [
                   "astar",
                   "dijkstra",
@@ -1583,7 +1583,7 @@
                 "open_issues": 28,
                 "owner": "heremaps",
                 "repo": "tin-terrain",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "3d",
                   "c-plus-plus",
@@ -3154,11 +3154,11 @@
                 "id": 3606738,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T00:49:16Z",
-                "open_issues": 1647,
+                "last_commit": "2026-08-29T05:34:05Z",
+                "open_issues": 1648,
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15621,
+                "stars": 15622,
                 "topics": [
                   "3d",
                   "3d-globe",
@@ -3185,11 +3185,11 @@
                 "id": 48030204,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:09:17Z",
-                "open_issues": 487,
+                "last_commit": "2026-08-29T14:40:29Z",
+                "open_issues": 488,
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14531,
+                "stars": 14533,
                 "topics": [
                   "data-visualization",
                   "geospatial-analysis",
@@ -3218,7 +3218,7 @@
                 "open_issues": 47,
                 "owner": "anvaka",
                 "repo": "city-roads",
-                "stars": 9582,
+                "stars": 9583,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:55.704Z"
@@ -3239,7 +3239,7 @@
                 "open_issues": 99,
                 "owner": "visgl",
                 "repo": "react-map-gl",
-                "stars": 8496,
+                "stars": 8497,
                 "topics": [
                   "data-visualization",
                   "map",
@@ -3289,7 +3289,7 @@
                 "open_issues": 15,
                 "owner": "mapbox",
                 "repo": "pixelmatch",
-                "stars": 6934,
+                "stars": 6935,
                 "topics": [
                   "diff",
                   "image-comparison",
@@ -4464,7 +4464,7 @@
                 "open_issues": 95,
                 "owner": "yeesian",
                 "repo": "ArchGDAL.jl",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "gdal",
                   "geo",
@@ -5232,7 +5232,7 @@
                 "open_issues": 10,
                 "owner": "JetBrains",
                 "repo": "lets-plot-kotlin",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "charts",
                   "geotools",
@@ -5667,11 +5667,11 @@
                 "id": 48030204,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:09:17Z",
-                "open_issues": 487,
+                "last_commit": "2026-08-29T14:40:29Z",
+                "open_issues": 488,
                 "owner": "visgl",
                 "repo": "deck.gl",
-                "stars": 14531,
+                "stars": 14533,
                 "topics": [
                   "data-visualization",
                   "geospatial-analysis",
@@ -5700,7 +5700,7 @@
                 "open_issues": 320,
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9329,
+                "stars": 9332,
                 "topics": [
                   "3d",
                   "3d-map",
@@ -5779,8 +5779,8 @@
                 "id": 11002815,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T23:21:18Z",
-                "open_issues": 429,
+                "last_commit": "2026-08-29T18:02:01Z",
+                "open_issues": 417,
                 "owner": "geopandas",
                 "repo": "geopandas",
                 "stars": 5233,
@@ -5926,7 +5926,7 @@
                 "open_issues": 156,
                 "owner": "rasterio",
                 "repo": "rasterio",
-                "stars": 2565,
+                "stars": 2566,
                 "topics": [
                   "cli",
                   "cython",
@@ -5955,7 +5955,7 @@
                 "open_issues": 3,
                 "owner": "c2g-dev",
                 "repo": "city2graph",
-                "stars": 1883,
+                "stars": 1884,
                 "topics": [
                   "city2graph",
                   "geoai",
@@ -6174,7 +6174,7 @@
                 "open_issues": 24,
                 "owner": "luispedro",
                 "repo": "mahotas",
-                "stars": 890,
+                "stars": 889,
                 "topics": [
                   "c-plus-plus",
                   "computer-vision",
@@ -6202,7 +6202,7 @@
                 "open_issues": 44,
                 "owner": "openvenues",
                 "repo": "pypostal",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "address",
                   "address-parser",
@@ -6374,7 +6374,7 @@
                 "open_issues": 0,
                 "owner": "dekart-xyz",
                 "repo": "geosql",
-                "stars": 613,
+                "stars": 614,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:08:55.704Z"
@@ -6687,7 +6687,7 @@
                 "open_issues": 0,
                 "owner": "banesullivan",
                 "repo": "localtileserver",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "dynamic-tiling",
                   "folium",
@@ -6859,7 +6859,7 @@
                 "open_issues": 23,
                 "owner": "kuanb",
                 "repo": "peartree",
-                "stars": 208,
+                "stars": 207,
                 "topics": [
                   "gis",
                   "graphs",
@@ -7208,7 +7208,7 @@
                 "id": 779153433,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T13:28:00Z",
+                "last_commit": "2026-08-29T05:13:34Z",
                 "open_issues": 0,
                 "owner": "ben-nour",
                 "repo": "geojson-shave",
@@ -7725,7 +7725,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2025-08-24T20:15:21Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "paleolimbot",
                 "repo": "ggspatial",
                 "stars": 392,
@@ -8714,11 +8714,11 @@
                 "id": 105363726,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:59:18Z",
-                "open_issues": 71,
+                "last_commit": "2026-08-29T15:34:43Z",
+                "open_issues": 70,
                 "owner": "maplibre",
                 "repo": "martin",
-                "stars": 3879,
+                "stars": 3881,
                 "topics": [
                   "hacktoberfest",
                   "leaflet",
@@ -8755,7 +8755,7 @@
                 "open_issues": 124,
                 "owner": "georust",
                 "repo": "geo",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": [
                   "geography",
                   "geometry",
@@ -9275,7 +9275,7 @@
                 "open_issues": 29,
                 "owner": "mapbox",
                 "repo": "turf-swift",
-                "stars": 270,
+                "stars": 271,
                 "topics": [
                   "algorithm",
                   "computational-geometry",
@@ -9354,7 +9354,7 @@
             "open_issues": 46,
             "owner": "mapbox",
             "repo": "vector-tile-spec",
-            "stars": 1004,
+            "stars": 1005,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:55.704Z"
@@ -9535,7 +9535,7 @@
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2622,
+            "stars": 2623,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:55.704Z"
@@ -9582,7 +9582,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2313,
+            "stars": 2312,
             "topics": [
               "awesome",
               "change-detection",
@@ -9944,7 +9944,7 @@
                 "open_issues": 63,
                 "owner": "sshuair",
                 "repo": "awesome-gis",
-                "stars": 5503,
+                "stars": 5504,
                 "topics": [
                   "awesome",
                   "geo",
@@ -9968,7 +9968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:43.496Z",
+    "last_updated": "2026-08-29T18:55:14.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
@@ -9980,7 +9980,7 @@
       "open_issues": 63,
       "owner": "sshuair",
       "repo": "awesome-gis",
-      "stars": 5503,
+      "stars": 5504,
       "topics": [
         "awesome",
         "geo",
